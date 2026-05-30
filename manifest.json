@@ -1,0 +1,16 @@
+{
+  "name": "HexChal Digital Bank",
+  "short_name": "HexChal",
+  "description": "HexChal Digital Bank customer and staff portal.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml"
+    }
+  ]
+}
